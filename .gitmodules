@@ -1,0 +1,15 @@
+[submodule "telegram_bot"]
+	path = telegram_bot
+	url = git@github.com:isde-jaupaj-giovannini/telegram_bot.git
+[submodule "business_logic_service"]
+	path = business_logic_service
+	url = git@github.com:isde-jaupaj-giovannini/business_logic_service.git
+[submodule "local_database"]
+	path = local_database
+	url = git@github.com:isde-jaupaj-giovannini/local_database.git
+[submodule "storage_service"]
+	path = storage_service
+	url = git@github.com:isde-jaupaj-giovannini/storage_service.git
+[submodule "process_centric_service"]
+	path = process_centric_service
+	url = git@github.com:isde-jaupaj-giovannini/process_centric_service.git
