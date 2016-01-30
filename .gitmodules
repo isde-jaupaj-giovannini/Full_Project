@@ -13,3 +13,6 @@
 [submodule "process_centric_service"]
 	path = process_centric_service
 	url = git@github.com:isde-jaupaj-giovannini/process_centric_service.git
+[submodule "adapter_service"]
+	path = adapter_service
+	url = git@github.com:isde-jaupaj-giovannini/adapter_service.git
