@@ -1,6 +1,11 @@
 # Full_Project
 
 
+
+![alt tag](https://github.com/isde-jaupaj-giovannini/Full_Project/blob/master/images/architecture.png)
+
+
+
 ### Telegram Bot
 
 ### Process Centric Service
