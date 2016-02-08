@@ -1,5 +1,10 @@
 # Full_Project
 
+This repository contains all of our other repository as submodules.
+
+To clone all of them in one command use:
+
+ `git clone --recursive git@github.com:isde-jaupaj-giovannini/Full_Project.git`
 
 ## Architecture
 
