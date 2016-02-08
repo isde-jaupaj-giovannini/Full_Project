@@ -40,6 +40,10 @@ This SOAP based web service provides an abstraction over the internal and extern
 ### LocalDatabase Service
 This SOAP based web service handles our internal datasource which is a Postgress database on Heroku.
 
+
+![alt tag](https://github.com/isde-jaupaj-giovannini/Full_Project/blob/master/images/ER.png)
+
+
 [WSDL](https://nameless-forest-62807.herokuapp.com/ws/localdb?wsdl)
 
 [API description](https://github.com/isde-jaupaj-giovannini/local_database/blob/master/README.md)
