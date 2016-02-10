@@ -22,7 +22,7 @@ Our user interface is provided as a Telegram Bot with which the user can interac
 ### Process Centric Service
 This SOAP based web service handles simple request from the client and dispatches them to the storage services.
 
-[WSDL](https://mysterious-dawn-60268.herokuapp.com/ws/blservice?wsdl)
+[WSDL](https://calm-thicket-15896.herokuapp.com/ws/pcservice?wsdl)
 
 [API description](https://github.com/isde-jaupaj-giovannini/process_centric_service/blob/master/README.md)
 ### Business Logic Service
